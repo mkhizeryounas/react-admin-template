@@ -1,0 +1,14 @@
+.left-sidebar {
+  box-shadow: none !important;
+  border-right: 1px solid #d2dce7;
+}
+
+.bottom-item {
+  border-top: 1px solid #d2dce7;
+  position: absolute;
+  bottom: 0;
+}
+
+.scrollbar-container {
+  position: inherit !important;
+}
